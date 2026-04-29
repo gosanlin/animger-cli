@@ -1,5 +1,6 @@
 # animger-cli
 Un programa hecho en Python para reproducir Animes a través de Internet desde el CMD de Windows en CLI
+```text
     ___     _   __  ____ __  ___ ______ ______ ____         ______ __     ____
    /   |   / | / / /  _//  |/  // ____// ____// __ \       / ____// /    /  _/
   / /| |  /  |/ /  / / / /|_/ // / __ / __/  / /_/ /______/ /    / /     / /  
